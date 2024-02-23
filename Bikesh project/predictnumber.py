@@ -5,4 +5,4 @@ while True:
     if user_input==random_number:
         print("Congratulations. you guessed the correct number.")
     else:
-        print(f"Sorry, the correct number was {random_number}. try again!")f
+        print(f"Sorry, the correct number was {random_number}. try again!")
