@@ -16,6 +16,6 @@ selected_ids = random.sample(list(ipo_ids), 2)
 
 print("Selected ipo ids:")
 print(f"Congratulations ! {selected_ids}")
- 
+
 for selected_id in selected_ids:
     print(f"{selected_id}: {ipo_ids[selected_id]}")
